@@ -2,16 +2,14 @@
 
 
 <div align = "center">
-
+   
 <br/>
 <h3>Hi Welcome🥳</h3><br/>
 I'm Namseok Kim.<br/>
-Interested in all IT skills (like AI, Blockchain etc..),<br/>
+Interested in all IT skills (like AI, Blockchain etc..),</br>
 
-But
-<h3>security</h3>
-is my favourite
 
+But `security` is my favourite
 
 <br/><br/>
 
